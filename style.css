@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#unique {
+    color: green;
+    font-size: 20px;
+}
+
+
+h2 {
+    color: blue;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: rgb(8, 8, 113);
+    background-color: beige;
+    width: 600px;
+    height: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.box {
+    color: blue;
+    background-color: rgb(192, 226, 238);
+    width: 600px;
+    height: 450px;
+    font-size: 16px;
+    line-height: 1.5;
+    border: 2px solid rgb(18, 138, 208);
+}
+
+span {
+    font-weight: 800;
+}
+
+
+.th {
+    color: rgb(7, 7, 158);
+}
+
+.td {
+    color: rgb(5, 110, 132);
+}
